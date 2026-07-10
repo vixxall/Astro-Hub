@@ -1,0 +1,6 @@
+{
+  "name": "Astro Hub",
+  "description": "An interactive, visually rich astronomy hub featuring a Solar System Explorer, Star Guide, Space Missions Database, NASA Gallery, and an Astronomy Quiz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
